@@ -1,6 +1,12 @@
 # CMPG-323-Overview - 33526966
-There is a total of five (5) projects to be done throughout the semester. Each project will use a repository of its own as shown below:
-* Project 1 - https://github.com/JaneKuali/CMPG-323-Overview---33526966
+
+## Repository and Project Context diagram
+There is a total of five (5) projects to be done throughout the semester:
+* Project 1 will make use of <a href="https://github.com/JaneKuali/CMPG-323-Overview---33526966">this</a> repository.
+* The repositories for Projects 2, 3, 4 and 5 will created seperately and then integrated to the main <a href="https://github.com/users/JaneKuali/projects/6">Kanban Project<a/> within <a href="https://github.com/JaneKuali/CMPG-323-Overview---33526966">this</a> repo as shown in the diagram below:
+
+![Context diagram drawio](https://user-images.githubusercontent.com/81962930/185412068-b2fe071c-3248-4628-8a84-cc7b494dcc21.png)
+The link to the different repos will be updated in this ReadME.md file when created.
 
 ## GitHub Flow Branching Strategy
 The branching strategy that will be used within each of the projects is the GitHub Flow as shown below: Image from (GeeksforGeeks, 2022)
