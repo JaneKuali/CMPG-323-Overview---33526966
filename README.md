@@ -4,7 +4,7 @@
 There is a total of five (5) projects to be done throughout the semester:
 * Project 1 will make use of <a href="https://github.com/JaneKuali/CMPG-323-Overview---33526966">this</a> repository.
 * Project 2 - <a href="https://github.com/JaneKuali/CMPG-323-Project-2---33526966">click here</a>.
-* The repositories for Projects 2, 3, 4 and 5 will created seperately and then integrated to the main <a href="https://github.com/users/JaneKuali/projects/6">Kanban Project<a/> within <a href="https://github.com/JaneKuali/CMPG-323-Overview---33526966">this</a> repo as shown in the diagram below:
+* The repositories for Projects 3, 4 and 5 will created seperately and then integrated to the main <a href="https://github.com/users/JaneKuali/projects/6">Kanban Project<a/> within <a href="https://github.com/JaneKuali/CMPG-323-Overview---33526966">this</a> repo as shown in the diagram below:
 
 ![Context diagram drawio](https://user-images.githubusercontent.com/81962930/185412068-b2fe071c-3248-4628-8a84-cc7b494dcc21.png)
   
